@@ -1,0 +1,148 @@
+[
+    {
+      "id": 1,
+      "courseName": "Introduction to Computer Science",
+      "image": "https://i.ibb.co/518JgXB/Introduction-To-Computer-Science-CS-Major-Learn-Computer-Science-CS-Tutorial.jpg",
+      "credit": 4,
+      "price": 49.99,
+      "description": "Learn the fundamentals of computer science, including algorithms and programming.",
+      "instructor": "Dr. John Smith",
+      "schedule": "Mondays and Wednesdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+        "requirements": ["None"],
+        "topics": ["Algorithm design", "Programming basics"]
+        
+    },
+    {
+      "id": 2,
+       
+        "courseName": "Digital Marketing 101",
+        "image": "https://i.ibb.co/q1CMYGP/digital-marketing-2.png",
+        "credit": 3,
+        "price": 39.99, 
+          "description": "Explore the basics of digital marketing, including social media and online advertising.",
+          "instructor": "Prof. Emily Johnson",
+          "schedule": "Tuesdays and Thursdays, 7:30 PM - 9:30 PM",
+          "location": "Onsite",
+          "requirements": ["Basic computer skills"],
+          "topics": ["Social media marketing", "Online advertising"]
+        
+      
+      
+    },
+    {
+      "id": 3,
+       "courseName": "Graphic Design Fundamentals",
+        "image": "https://i.ibb.co/hZdcFtq/Graphic-Design-Fundamentals-for-Beginners-01-1024x1024.jpg",
+        "credit": 2,
+        "price": 29.99,
+          "description": "Introduction to graphic design principles and tools, including Adobe Illustrator.",
+          "instructor": "Dr. Sarah Brown",
+          "schedule": "Fridays, 6:00 PM - 8:00 PM",
+          "location": "Online",
+          "requirements": ["Basic computer skills"],
+          "topics": ["Design principles", "Adobe Illustrator"]
+        
+       
+      
+    },
+    {
+      "id": 4,
+        "courseName": "Web Development",
+        "image": "https://i.ibb.co/TmrSDDY/web-development-word-abstract-wood-type-vintage-letterpress-printing-blocks-against-grunge-cup-coffe.webp",
+        "credit": 5,
+        "price": 59.99,
+       
+          "description": "Learn to develop mobile applications for iOS and Android platforms.",
+          "instructor": "Prof. Michael White",
+          "schedule": "Saturdays, 10:00 AM - 12:00 PM",
+          "location": "Onsite",
+          "requirements": ["Programming knowledge"],
+          "topics": ["iOS development", "Android development"]
+      
+       
+      
+    },
+    {
+      "id": 5,
+      
+        "courseName": "Data Science Essentials",
+        "image": "https://i.ibb.co/6vnVPBp/download-1.jpg",
+        "credit": 4,
+        "price": 49.99,
+       
+          "description": "An overview of the essential concepts of data science, including data analysis and machine learning.",
+          "instructor": "Dr. Emma Rodriguez",
+          "schedule": "Mondays and Wednesdays, 6:30 PM - 8:30 PM",
+          "location": "Onsite",
+          "requirements": ["Basic statistics knowledge"],
+          "topics": ["Data analysis", "Machine learning"]
+      
+      
+      
+    },
+    {
+      "id": 6,
+        "courseName": "C programing Basics",
+        "image": "https://i.ibb.co/WKzpXQm/C-Programming-BCG-Banner.png",
+        "credit": 3,
+        "price": 39.99,
+          "description": "Cprograming Basic to Advance .",
+          "instructor": "Prof. David Miller",
+          "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+          "location": "Online",
+          "requirements": ["Basic Fundamental Advence to Beginning skills"],
+          "topics": [" Main ,Array ,loop,Object,Financial statements"]
+        
+    
+    },
+    {
+      "id": 7,
+        "courseName": "Photography for Beginners",
+        "image": "https://i.ibb.co/pbBv7XV/maxresdefault.jpg",
+        "credit": 2,
+        "price": 19.99,
+          "description": "Learn the basics of photography, including composition and camera settings.",
+          "instructor": "Dr. Mark Anderson",
+          "schedule": "Fridays, 5:30 PM - 7:30 PM",
+          "location": "Onsite",
+          "requirements": ["Digital camera or smartphone"],
+          "topics": ["Composition", "Camera settings"]
+       
+      
+      
+    },
+    {
+      "id": 8,
+        "courseName": "Machine Learning Fundamentals",
+        "image": "https://i.ibb.co/n1PPWg9/Machine-Learning-Courses-2048x1000.png",
+        "credit": 5,
+        "price": 69.99,
+          "description": "An introduction to machine learning concepts and algorithms.",
+          "instructor": "Prof. Amanda Smith",
+          "schedule": "Saturdays, 2:00 PM - 4:00 PM",
+          "location": "Online",
+          "requirements": ["Basic programming knowledge", "Statistics background"],
+          "topics": ["Supervised learning", "Unsupervised learning"]
+     
+    
+    },
+    {
+      "id": 9,
+     
+        "courseName": "Creative Writing Workshop",
+        "image": "https://i.ibb.co/p4DV0rB/Creative-Writing-Course-4.png",
+        "credit": 2,
+        "price": 29.99,
+        
+          "description": "Unlock your creativity and enhance your writing skills in this interactive workshop.",
+          "instructor": "Dr. Jennifer Adams",
+          "schedule": "Thursdays, 7:00 PM - 9:00 PM",
+          "location": "Onsite",
+          "requirements": ["Passion for writing"],
+          "topics": ["Storytelling", "Writing exercises"]
+      
+   
+      
+    }
+  ]
